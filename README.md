@@ -12,7 +12,9 @@
 使用:
 
 ```bash
-$ git clone
+$ git clone https://github.com/TaceyWong/vim_conf.git
 $ cd vim_conf
 $ sudo python conf_it #一定要加sudo
 ```
+正常使用的具体场景应该像下面一样：
+![使用样图](./test.png)
