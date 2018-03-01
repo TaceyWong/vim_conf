@@ -1,5 +1,6 @@
 set nu
-
+set ts=4
+set expandtab
 "color scheme
 set t_Co=256
 color molokai
